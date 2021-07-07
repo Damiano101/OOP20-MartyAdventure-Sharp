@@ -1,0 +1,9 @@
+[submodule "OOP20-Morandi"]
+	path = OOP20-Morandi
+	url = https://github.com/Damiano101/OOP20-Morandi
+[submodule "OOP-Babini"]
+	path = OOP-Babini
+	url = https://github.com/ste-script/OOP-Babini
+[submodule "OOP-Bombardini"]
+	path = OOP-Bombardini
+	url = https://github.com/LorenzoBombardini/OOP-Bombardini
