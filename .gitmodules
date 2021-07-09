@@ -7,3 +7,6 @@
 [submodule "OOP-Bombardini"]
 	path = OOP-Bombardini
 	url = https://github.com/LorenzoBombardini/OOP-Bombardini
+[submodule "OOP20-Tafuro"]
+	path = OOP20-Tafuro
+	url = https://github.com/stefanotafuro/OOP20-Tafuro
